@@ -1,2 +1,2 @@
-// Supprime tous les documents nommés "Holberton school" de la collection school
+// Suppression
 db.school.remove({ "name": "Holberton school" })
