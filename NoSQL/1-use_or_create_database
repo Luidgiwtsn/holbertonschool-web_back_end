@@ -1,2 +1,2 @@
 // Script qui crée ou utilise la base de données my_db
-echo "use my_db" | mongo
+use my_db
